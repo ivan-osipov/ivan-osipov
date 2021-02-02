@@ -4,15 +4,11 @@ I have a quite wide range of interests
 
 #### ⌨ As an employee:
 
-I'm working for [ARRIVAL](http://arrival.com/) in Robotics department on Lead Backend Engineer postion. We are creating robitic 🤖 [microfactories](https://arrival.com/?id=4) 🔩 to support our elictric cars 🚍 production. I have a lot of responsibilities there from code writing to integrations with other teams and architecture design.
+I'm working for [ARRIVAL](http://arrival.com/) in Robotics department on Tech Lead Engineer postion. We are creating robitic 🤖 [microfactories](https://arrival.com/?id=4) 🔩 to support our elictric cars 🚍 production. I have a lot of responsibilities there from code writing to integrations with other teams and architecture design.
 
 #### 💰 As an investor:
 
 I prefer diversified long-term goal-based strategies.
-
-#### 🚀 As a founder:
-
-I have a project https://gettis.io which is under development. It is a flexible Learning Management System.
 
 #### ⚙ As a technology lover:
 
