@@ -4,11 +4,7 @@ I have a quite wide range of interests
 
 #### ⌨ As an employee:
 
-I'm working for [ARRIVAL](http://arrival.com/) in Robotics department on Tech Lead Engineer postion. We are creating robitic 🤖 [microfactories](https://arrival.com/?id=4) 🔩 to support our elictric cars 🚍 production. I have a lot of responsibilities there from code writing to integrations with other teams and architecture design.
-
-#### 💰 As an investor:
-
-I prefer diversified long-term goal-based strategies.
+I'm working for [ARRIVAL](http://arrival.com/) on Tech Lead postion. We are creating radically new way of elictric vehicle design 🔩 to support the new era of robofacturing. I have a lot of responsibilities there from code writing & integrations with other teams to architecture design and team leading.
 
 #### ⚙ As a technology lover:
 
@@ -16,6 +12,10 @@ I'm exited about:
 - Data Science
 - Genetic Algorithms
 - Quantum Computing
+
+#### 💰 As an investor:
+
+I prefer diversified long-term goal-based strategies.
 
 #### 📺 As a blogger:
 
