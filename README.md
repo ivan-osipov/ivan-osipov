@@ -4,14 +4,16 @@ I have a quite wide range of interests
 
 #### ⌨ As an employee:
 
-I'm working for [ARRIVAL](http://arrival.com/) on Tech Lead postion. We are creating radically new way of elictric vehicle design 🔩 to support the new era of robofacturing. I have a lot of responsibilities there from code writing & integrations with other teams to architecture design and team leading.
+I'm working for yet another british startup as Engineering Manager & Tech Lead. We create a cutting-edge solution to find insights in your business and manage it autonomously.
 
 #### ⚙ As a technology lover:
 
 I'm exited about:
+- Software Engineering
 - Data Science
 - Genetic Algorithms
 - Quantum Computing
+- Large Language Models
 
 #### 💰 As an investor:
 
@@ -19,14 +21,16 @@ I prefer diversified long-term goal-based strategies.
 
 #### 📺 As a blogger:
 
-- I write [a web blog](http://i-osipov.ru/)
-- I write [a telegram blog](https://t.me/from_junior_to_senior)
+- I write [a blog](https://devtower.io)
+- I write [a telegram blog](https://t.me/from_junior_to_cto)
+- I record [youtube videos for engineers (en)](https://www.youtube.com/@DevTower)
+- I record [youtube videos for leaders (ru)](https://www.youtube.com/@DevTowerLeaders)
 - I record [a podcast](https://soundcloud.com/k7n8qljmfp5d/tracks) 
-- I record [youtube videos](https://www.youtube.com/channel/UCjWTWnMAQOuqK8IgfSUXtDQ)
+- I wrote [a web blog (ru)](http://i-osipov.ru/)
 
 #### 🎤 As a conference speeker:
 
-I love to speak at conferences. Here is my playlist with talks on [YouTube](https://www.youtube.com/playlist?list=PLj99AnIfpSnOoSHuHDDLqmwYa5v0EixM3)
+I love to speak at conferences. Here is my playlist with all my public content on [YouTube](https://www.youtube.com/playlist?list=PLJ1JkC8dbCGMvkOLI412TDvlWGfkrmCbl)
 
 #### 👨 As a human:
 
@@ -48,6 +52,6 @@ I love to speak at conferences. Here is my playlist with talks on [YouTube](http
 
 #### Contact me:
 
-email: contact@i-osipov.ru
+email: ivan@devtower.io
 
 telegram: @ivan_osipov
